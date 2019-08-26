@@ -52,7 +52,4 @@ __Lifelines - Audience Poll__
 
 ---
 
-### Open Source Contribution
-
-If anyone of you think to improve this project, we are open to changes and send the pr it will help someone else as an idea for mini projects
 
